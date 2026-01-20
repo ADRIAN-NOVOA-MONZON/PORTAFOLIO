@@ -8,14 +8,18 @@ Tengo experiencia en administración, ventas y gestión de pequeños negocios, l
 
 Me caracterizo por un pensamiento analítico estructurado, atención al detalle y la capacidad de comunicar resultados de forma clara a perfiles no técnicos. Mi background en negocio me permite entender los objetivos comerciales detrás de los datos.
 
-<a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> CV Pdf </a>
-
-<a href="https://www.linkedin.com/in/adrian-novoa-monzon" target="_blank" rel="noopener noreferrer"> Perfil LinkedIn </a>
-
-
 ---
 ## Indice
 - [Inicio](#adrian-novoa---portafolio-de-proyectos)
+- [Perfil Profesional](#perfil-profesional)
+- [Datos de Contacto](#datos-de-contacto)
+
+---
+# Datos de Contacto
+
+- **Cv:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> Pdf </a>
+- **LinkedIn:** [adrian-novoa-monzon](https://www.linkedin.com/in/adrian-novoa-monzon)
+- **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)
 
 
 *Última actualización: 2026*
