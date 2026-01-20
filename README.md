@@ -10,14 +10,14 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 
 ---
 ## Indice
-- [Inicio](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#adrian-novoa---portafolio-de-proyectos)
-- [Perfil Profesional](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#perfil-profesional)
-- [Datos de Contacto](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#datos-de-contacto)
-- [Proyectos](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#-proyectos-t%C3%A9cnicos)
-  - [instacart-market-basket-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#instacart-market-basket-analysis)
-  - [car-sales-app](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#car-sales-app)
-  - [coin-toss-probability-simulator](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#coin-toss-probability-simulator)
-  - [megaline-prepaid-tariff-profitability-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#megaline-prepaid-tariff-profitability-analysis)
+- [Inicio](#adrian-novoa---portafolio-de-proyectos)
+- [Perfil Profesional](#perfil-profesional)
+- [Datos de Contacto](#datos-de-contacto)
+- [Proyectos](#-proyectos-t%C3%A9cnicos)
+  - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
+  - [car-sales-app](#car-sales-app)
+  - [coin-toss-probability-simulator](#coin-toss-probability-simulator)
+  - [megaline-prepaid-tariff-profitability-analysis](#megaline-prepaid-tariff-profitability-analysis)
 - 
 
 ---
