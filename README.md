@@ -14,14 +14,13 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 - [Perfil Profesional](#perfil-profesional)
 - [Datos de Contacto](#datos-de-contacto)
 - [Proyectos](#proyectos)
+  - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
 - 
 
 ---
 ## 📊 Proyectos Técnicos de Datos
 
-## 📊 Proyectos Técnicos de Datos
-
-- **instacart-market-basket-analysis** | *Data Analyst · TripleTen (2025)*  
+### **[instacart-market-basket-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/instacart-market-basket-analysis)** | *Data Analyst · TripleTen (2025)*  
   - **Descripción:**  
     Análisis exploratorio y limpieza de datos de comportamiento de compra de usuarios para identificar patrones de consumo, frecuencia de pedidos y productos más demandados, utilizando Python, pandas, estadística descriptiva y visualizaciones con Matplotlib/Pyplot.
   - **Logro / Impacto:**  
