@@ -10,17 +10,21 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 
 ---
 ## Indice
-- [Inicio](#adrian-novoa---portafolio-de-proyectos)
-- [Perfil Profesional](#perfil-profesional)
-- [Datos de Contacto](#datos-de-contacto)
-- [Proyectos](#proyectos)
-  - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
+- [Inicio](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#adrian-novoa---portafolio-de-proyectos)
+- [Perfil Profesional]([#perfil-profesional](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#perfil-profesional))
+- [Datos de Contacto](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#datos-de-contacto)
+- [Proyectos](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#-proyectos-t%C3%A9cnicos)
+  - [instacart-market-basket-analysis](#instacart-market-basket-analysis--data-analyst--tripleten-2025)
+  - [car-sales-app](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#car-sales-app)
+  - [coin-toss-probability-simulator](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#coin-toss-probability-simulator)
+  - [megaline-prepaid-tariff-profitability-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/edit/main/README.md#megaline-prepaid-tariff-profitability-analysis)
 - 
 
 ---
-## 📊 Proyectos Técnicos de Datos
+## 📊 Proyectos Técnicos
 
-### **[instacart-market-basket-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/instacart-market-basket-analysis)** | *Data Analyst · TripleTen (2025)*  
+### **[instacart-market-basket-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/instacart-market-basket-analysis)**
+*Data Analyst, TripleTen (2025)*  
   - **Descripción:**  
     Análisis exploratorio y limpieza de datos de comportamiento de compra de usuarios para identificar patrones de consumo, frecuencia de pedidos y productos más demandados, utilizando Python, pandas, estadística descriptiva y visualizaciones con Matplotlib/Pyplot.
   - **Logro / Impacto:**  
@@ -28,7 +32,8 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
   - **Habilidades técnicas:**  
     Python · Pandas · NumPy · Matplotlib · Pyplot · EDA · Estadística descriptiva · Data Cleaning
 
-- **car-sales-app** | *Data Analyst · TripleTen (2025)*  
+### **[car-sales-app](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/car-sales-app)**
+*Data Analyst, TripleTen (2025)*  
   - **Descripción:**  
     Exploratory Data Analysis (EDA) y desarrollo de una aplicación web interactiva para analizar la relación entre precio y kilometraje de vehículos mediante visualizaciones dinámicas.
   - **Logro / Impacto:**  
@@ -36,7 +41,8 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
   - **Habilidades técnicas:**  
     Python · Pandas · NumPy · Streamlit · Plotly Express · EDA · Estadística descriptiva · Data Cleaning
 
-- **coin-toss-probability-simulator** | *Data Analyst · TripleTen (2025)*  
+### **[coin-toss-probability-simulator](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/coin-toss-probability-simulator)**
+*Data Analyst, TripleTen (2025)*  
   - **Descripción:**  
     Desarrollo de una aplicación interactiva para simular experimentos probabilísticos y visualizar la convergencia de la media acumulada al valor esperado.
   - **Logro / Impacto:**  
@@ -44,7 +50,8 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
   - **Habilidades técnicas:**  
     Python · Streamlit · Probabilidad · Estadística básica · Simulación · Visualización de datos
 
-- **megaline-prepaid-tariff-profitability-analysis** | *Data Analyst · TripleTen (2025)*  
+### **[megaline-prepaid-tariff-profitability-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/megaline-prepaid-tariff-profitability-analysis)**
+*Data Analyst, TripleTen (2025)*  
   - **Descripción:**  
     Análisis de datos de uso, ingresos y costos de planes prepago para evaluar la rentabilidad por tarifa e identificar patrones de consumo.
   - **Logro / Impacto:**  
