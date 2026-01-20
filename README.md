@@ -12,13 +12,12 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 ## Indice
 - [Inicio](#adrian-novoa---portafolio-de-proyectos)
 - [Perfil Profesional](#perfil-profesional)
-- [Datos de Contacto](#datos-de-contacto)
-- [Proyectos](#-proyectos-t%C3%A9cnicos)
+- [Proyectos Técnicos](#-proyectos-t%C3%A9cnicos)
   - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
   - [car-sales-app](#car-sales-app)
   - [coin-toss-probability-simulator](#coin-toss-probability-simulator)
   - [megaline-prepaid-tariff-profitability-analysis](#megaline-prepaid-tariff-profitability-analysis)
-- 
+  - [Datos de Contacto](#datos-de-contacto)
 
 ---
 ## 📊 Proyectos Técnicos
