@@ -17,7 +17,7 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
   - [car-sales-app](#car-sales-app)
   - [coin-toss-probability-simulator](#coin-toss-probability-simulator)
   - [megaline-prepaid-tariff-profitability-analysis](#megaline-prepaid-tariff-profitability-analysis)
-  - [Datos de Contacto](#datos-de-contacto)
+- [Datos de Contacto](#datos-de-contacto)
 
 ---
 ## 📊 Proyectos Técnicos
