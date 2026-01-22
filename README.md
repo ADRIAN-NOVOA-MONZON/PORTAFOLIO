@@ -34,6 +34,7 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 ## Indice
 - [Inicio](#adrian-novoa---portafolio-de-proyectos)
 - [Perfil Profesional](#perfil-profesional)
+- [Habilidades Técnicas](#%EF%B8%8F-habilidades-t%C3%A9cnicas)
 - [Proyectos Técnicos](#-proyectos-t%C3%A9cnicos)
   - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
   - [car-sales-app](#car-sales-app)
