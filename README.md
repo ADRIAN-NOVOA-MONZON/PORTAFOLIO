@@ -34,6 +34,7 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 ## Indice
 - [Inicio](#adrian-novoa---portafolio-de-proyectos)
 - [Perfil Profesional](#perfil-profesional)
+- [Habilidades Técnicas](#%EF%B8%8F-habilidades-t%C3%A9cnicas)
 - [Proyectos Técnicos](#-proyectos-t%C3%A9cnicos)
   - [instacart-market-basket-analysis](#instacart-market-basket-analysis)
   - [car-sales-app](#car-sales-app)
@@ -88,7 +89,7 @@ resultados a usuarios no técnicos.
   - **Logro / Impacto:**  
     Visualización clara e interactiva del comportamiento de la Ley de los Grandes Números, facilitando la comprensión práctica de conceptos de probabilidad y estadística básica a través de simulaciones repetibles y dinámicas.
   - **Habilidades técnicas:**  
-    Python · Pandas · Streamlit · Probabilidad · Estadística básica · Simulación · Visualización de datos
+    Python · Pandas · Streamlit · Desarrollo de aplicaciones web · Estadística básica ·  Probabilidad · Simulación · Visualización de datos
 
 ### **[megaline-prepaid-tariff-profitability-analysis](https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/tree/main/megaline-prepaid-tariff-profitability-analysis)**
 *Data Analyst, TripleTen (2025)*  
