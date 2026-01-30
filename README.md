@@ -40,6 +40,25 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
   - [coin-toss-probability-simulator](#coin-toss-probability-simulator)
   - [megaline-prepaid-tariff-profitability-analysis](#megaline-prepaid-tariff-profitability-analysis)
 - [Datos de Contacto](#datos-de-contacto)
+---
+## 📁 Estructura del Repositorio
+
+Este repositorio centraliza distintos proyectos desarrollados como parte de mi formación en
+Data Analytics. Cada proyecto se encuentra organizado en su propia carpeta y cuenta con un
+README individual que describe el objetivo, metodología y resultados obtenidos.
+
+```text
+PORTAFOLIO/
+├── instacart-market-basket-analysis/        # Análisis exploratorio de datos (EDA)
+├── car-sales-app/                           # Aplicación web interactiva (Streamlit)
+├── coin-toss-probability-simulator/         # Simulación probabilística (Streamlit)
+├── megaline-prepaid-tariff-profitability-analysis/  # Análisis de rentabilidad (EDA)
+├── ADRIAN NOVOA CV DATA ANALYST.pdf
+└── README.md                                # README principal del portafolio
+```
+Los proyectos de análisis (EDA) se enfocan en la exploración, limpieza y comprensión de datos,
+mientras que las aplicaciones web permiten la visualización interactiva y la comunicación de
+resultados a usuarios no técnicos.
 
 ---
 ## 📊 Proyectos Técnicos
@@ -90,4 +109,4 @@ Me caracterizo por un pensamiento analítico estructurado, atención al detalle 
 - **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)
 
 
-*Última actualización: 2026*
+*Última actualización: 26 de Enero del 2026*

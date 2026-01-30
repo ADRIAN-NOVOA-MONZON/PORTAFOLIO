@@ -1,33 +1,41 @@
-# 🎲 coin-toss-probability-simulator
+# coin-toss-probability-simulator
 ### Simulador de Lanzamientos de Moneda (Streamlit)
 
 Aplicación en **Streamlit** que simula lanzamientos de una moneda y muestra cómo evoluciona la **media acumulada** conforme aumentan los intentos.
 
-## 🚀 Funcionalidad
+## Funcionalidad
 - Simulación de lanzamientos usando distribución Bernoulli.  
 - Gráfica dinámica con la media acumulada.  
 - Registro de cada experimento (número, intentos y media final).  
 - Interfaz sencilla e interactiva.
 
-## 🧠 Descripción breve
+## Descripción breve
 Cada lanzamiento asigna:
 - **1 = Cara**
 - **0 = Cruz**
 
 La aplicación calcula la media acumulada y la grafica en tiempo real, mostrando su convergencia al valor esperado de **0.5**.
 
-# ⚙️ Instalación local
-```bash
-git clone https://github.com/ADRIAN-NOVOA-MONZON/coin-toss-probability-simulator.git
-cd coin-toss-probability-simulator
-python -m venv venv
-venv\Scripts\activate   # En Windows
-pip install -r requirements.txt
+## Estructura del Proyecto
+
+```text
+coin-toss-probability-simulator/
+├── README.md           # Documentación del proyecto
+├── requirements.txt    # Dependencias necesarias para ejecutar la app
+└── app.py              # Aplicación principal en Streamlit
 ```
 
-# ▶️ Ejecución
+## Ejecución
+```bash
 streamlit run app.py
+```
 
-# 👨‍💻 Autor
+## Autor
 Adrian Novoa Monzón<br>
 Data Analyst en Formación – TripleTen
+
+## Datos de Contacto
+
+- **Cv:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> Pdf </a>
+- **LinkedIn:** [adrian-novoa-monzon](https://www.linkedin.com/in/adrian-novoa-monzon)
+- **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)

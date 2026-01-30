@@ -3,32 +3,35 @@ Análisis Exploratorio de Datos – Ventas de Vehículos
 
 Aplicación web interactiva desarrollada con Streamlit para realizar análisis exploratorio de datos (EDA) sobre vehículos en venta. Permite analizar el comportamiento del kilometraje y su relación con el precio mediante visualizaciones dinámicas.
 
-# 🌐 Aplicación Web en Vivo
+# Aplicación Web en Vivo
 Ver aplicación desplegada [aquí](https://car-sales-app-wag5.onrender.com/)
 
-# 🛠️ Tecnologías Utilizadas
+# Tecnologías Utilizadas
 • Python<br>
 • Pandas<br>
 • Streamlit<br>
 • Plotly Express<br>
 
-# 📊 Funcionalidades
+# Funcionalidades
 • Histograma interactivo del kilometraje<br>
 • Gráfico de dispersión entre precio y odómetro<br>
 • Interfaz dinámica con checkboxes<br>
 • Visualizaciones interactivas<br>
 
-# ⚙️ Instalación local
-git clone https://github.com/ADRIAN-NOVOA-MONZON/car-sales-app.git <br>
-cd car-sales-app<br>
-python -m venv venv<br>
-venv\Scripts\activate<br>
-pip install -r requirements.txt<br>
+# Estructura del Proyecto
 
-# ▶️ Ejecución
+```text
+car-sales-app/
+├── README.md           # Documentación del proyecto
+├── vehicles_us.csv     # Dataset de ventas de vehículos
+├── requirements.txt    # Dependencias necesarias para ejecutar la app
+└── app.py              # Aplicación principal en Streamlit
+```
+
+# Ejecución
 streamlit run app.py
 
-# 🗃️ Dataset
+# Dataset
 El archivo vehicles_us.csv contiene información de venta de autos, los cuales corresponden a lo siguiente:<br>
 • price – Precio del vehículo<br>
 • model_year – Año del modelo<br>
@@ -44,6 +47,12 @@ El archivo vehicles_us.csv contiene información de venta de autos, los cuales c
 • date_posted – Fecha de publicación del vehículo<br>
 • days_listed – Días que el vehículo estuvo publicado<br>
 
-# 👨‍💻 Autor
+# Autor
 Adrian Novoa Monzón<br>
 Data Analyst en Formación – TripleTen
+
+# Datos de Contacto
+
+- **Cv:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> Pdf </a>
+- **LinkedIn:** [adrian-novoa-monzon](https://www.linkedin.com/in/adrian-novoa-monzon)
+- **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)
