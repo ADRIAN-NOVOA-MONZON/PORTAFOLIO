@@ -1,0 +1,1093 @@
+operator_id,total_incoming_calls,missed_calls,missed_call_rate,avg_waiting_time,total_outgoing_calls,tipo_operador,high_missed_calls,high_waiting_time,low_outgoing_activity,criteria_failed,classification,effective_operator
+879896.0,58.0,0.0,0.0,9.89655172413793,872.0,Mixto,False,False,False,0,Desempeño Esperado,True
+879898.0,104.0,0.0,0.0,16.153846153846153,7209.0,Mixto,False,False,False,0,Desempeño Esperado,True
+880020.0,7.0,0.0,0.0,7.714285714285714,38.0,Mixto,False,False,False,0,Desempeño Esperado,True
+880022.0,8.0,0.0,0.0,14.0,189.0,Mixto,False,False,False,0,Desempeño Esperado,True
+880026.0,24.0,0.0,0.0,5.958333333333333,2208.0,Mixto,False,False,False,0,Desempeño Esperado,True
+880028.0,63.0,0.0,0.0,5.444444444444445,2497.0,Mixto,False,False,False,0,Desempeño Esperado,True
+880240.0,,,,,47.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+881278.0,,,,,20.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+882476.0,3.0,0.0,0.0,31.666666666666668,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+882478.0,3.0,0.0,0.0,25.333333333333332,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+882680.0,99.0,3.0,3.0303030303030303,16.07070707070707,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+882684.0,613.0,4.0,0.6525285481239804,15.539967373572594,661.0,Mixto,False,False,False,0,Desempeño Esperado,True
+882686.0,766.0,6.0,0.7832898172323759,14.714099216710183,2884.0,Mixto,True,False,False,1,Desempeño Bajo,False
+882688.0,15.0,0.0,0.0,44.86666666666667,43.0,Mixto,False,True,False,1,Desempeño Bajo,False
+882690.0,171.0,2.0,1.1695906432748537,41.53216374269006,1417.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+883018.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+883898.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+883940.0,6.0,0.0,0.0,12.666666666666666,632.0,Mixto,False,False,False,0,Desempeño Esperado,True
+883942.0,77.0,0.0,0.0,7.0519480519480515,2030.0,Mixto,False,False,False,0,Desempeño Esperado,True
+884294.0,1.0,0.0,0.0,6.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+884402.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+884406.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+884408.0,35.0,4.0,11.428571428571429,26.4,25.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+884412.0,18.0,0.0,0.0,41.666666666666664,748.0,Mixto,False,True,False,1,Desempeño Bajo,False
+884478.0,22.0,0.0,0.0,14.681818181818182,2270.0,Mixto,False,False,False,0,Desempeño Esperado,True
+884524.0,2.0,0.0,0.0,9.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+884946.0,12.0,0.0,0.0,13.25,1847.0,Mixto,False,False,False,0,Desempeño Esperado,True
+885682.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+885876.0,992.0,20.0,2.0161290322580645,9.089717741935484,58437.0,Mixto,True,False,False,1,Desempeño Bajo,False
+885890.0,1244.0,26.0,2.090032154340836,9.088424437299036,58977.0,Mixto,True,False,False,1,Desempeño Bajo,False
+886146.0,1.0,0.0,0.0,9.0,49.0,Mixto,False,False,False,0,Desempeño Esperado,True
+886674.0,11.0,0.0,0.0,15.272727272727273,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+886892.0,2.0,0.0,0.0,29.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+887276.0,431.0,3.0,0.6960556844547563,28.211136890951277,896.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+887278.0,52.0,0.0,0.0,17.28846153846154,256.0,Mixto,False,False,False,0,Desempeño Esperado,True
+887280.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+887282.0,28.0,0.0,0.0,44.607142857142854,2327.0,Mixto,False,True,False,1,Desempeño Bajo,False
+887416.0,18.0,0.0,0.0,16.72222222222222,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+887802.0,16.0,0.0,0.0,13.0625,121.0,Mixto,False,False,False,0,Desempeño Esperado,True
+887992.0,,,,,47.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+888406.0,9.0,1.0,11.11111111111111,28.333333333333332,6.0,Mixto,True,True,True,3,Desempeño Crítico,False
+888520.0,6.0,0.0,0.0,15.666666666666666,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+888532.0,12.0,2.0,16.666666666666664,24.083333333333332,188.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+888534.0,61.0,2.0,3.278688524590164,28.78688524590164,315.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+888536.0,2.0,0.0,0.0,21.5,52.0,Mixto,False,False,False,0,Desempeño Esperado,True
+888538.0,1.0,0.0,0.0,24.0,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+888540.0,3.0,0.0,0.0,19.666666666666668,14.0,Mixto,False,False,False,0,Desempeño Esperado,True
+888868.0,20.0,1.0,5.0,20.15,52.0,Mixto,True,False,False,1,Desempeño Bajo,False
+889410.0,439.0,0.0,0.0,6.325740318906606,1015.0,Mixto,False,False,False,0,Desempeño Esperado,True
+889638.0,4.0,0.0,0.0,14.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+889640.0,2.0,0.0,0.0,13.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+889754.0,480.0,2.0,0.4166666666666667,7.93125,1207.0,Mixto,False,False,False,0,Desempeño Esperado,True
+890226.0,3.0,0.0,0.0,27.333333333333332,3.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+890228.0,6.0,1.0,16.666666666666664,17.333333333333332,86.0,Mixto,True,False,False,1,Desempeño Bajo,False
+890232.0,,,,,33.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+890234.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+890402.0,539.0,0.0,0.0,10.313543599257885,1243.0,Mixto,False,False,False,0,Desempeño Esperado,True
+890404.0,516.0,2.0,0.3875968992248062,10.777131782945736,1349.0,Mixto,False,False,False,0,Desempeño Esperado,True
+890406.0,425.0,4.0,0.9411764705882352,9.461176470588235,1197.0,Mixto,True,False,False,1,Desempeño Bajo,False
+890410.0,16.0,0.0,0.0,6.75,1216.0,Mixto,False,False,False,0,Desempeño Esperado,True
+890412.0,23.0,0.0,0.0,16.043478260869566,1112.0,Mixto,False,False,False,0,Desempeño Esperado,True
+890416.0,,,,,1271.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+890420.0,,,,,695.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+890422.0,,,,,402.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+890582.0,104.0,1.0,0.9615384615384616,12.557692307692308,58.0,Mixto,True,False,False,1,Desempeño Bajo,False
+890618.0,73.0,1.0,1.36986301369863,1.1506849315068493,270.0,Mixto,True,False,False,1,Desempeño Bajo,False
+891152.0,,,,,273.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891154.0,,,,,528.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891156.0,,,,,18.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891158.0,,,,,264.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891160.0,,,,,370.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891162.0,,,,,104.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891166.0,,,,,231.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891170.0,,,,,193.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891192.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+891250.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+891252.0,,,,,86.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891254.0,1.0,0.0,0.0,26.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+891410.0,660.0,2.0,0.30303030303030304,13.201515151515151,2737.0,Mixto,False,False,False,0,Desempeño Esperado,True
+891414.0,503.0,1.0,0.19880715705765406,11.77534791252485,2498.0,Mixto,False,False,False,0,Desempeño Esperado,True
+891416.0,142.0,0.0,0.0,14.654929577464788,758.0,Mixto,False,False,False,0,Desempeño Esperado,True
+891646.0,8.0,0.0,0.0,20.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+891744.0,5.0,0.0,0.0,21.4,6.0,Mixto,False,False,True,1,Desempeño Bajo,False
+891746.0,,,,,33.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891824.0,12.0,0.0,0.0,16.25,32.0,Mixto,False,False,False,0,Desempeño Esperado,True
+891900.0,33.0,0.0,0.0,37.57575757575758,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+891906.0,67.0,0.0,0.0,26.597014925373134,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+891908.0,39.0,0.0,0.0,10.153846153846153,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+891918.0,5.0,0.0,0.0,31.2,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+891946.0,16.0,0.0,0.0,19.75,32.0,Mixto,False,False,False,0,Desempeño Esperado,True
+891948.0,1.0,0.0,0.0,3.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+891970.0,,,,,15.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+891976.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+891988.0,414.0,0.0,0.0,9.33574879227053,474.0,Mixto,False,False,False,0,Desempeño Esperado,True
+892028.0,,,,,1337.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+892530.0,9.0,0.0,0.0,33.55555555555556,9.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+892532.0,65.0,0.0,0.0,28.661538461538463,90.0,Mixto,False,True,False,1,Desempeño Bajo,False
+892534.0,28.0,0.0,0.0,33.607142857142854,11.0,Mixto,False,True,False,1,Desempeño Bajo,False
+892536.0,16.0,0.0,0.0,36.375,13.0,Mixto,False,True,False,1,Desempeño Bajo,False
+892538.0,10.0,0.0,0.0,30.0,116.0,Mixto,False,True,False,1,Desempeño Bajo,False
+892798.0,1.0,0.0,0.0,43.0,36.0,Mixto,False,True,False,1,Desempeño Bajo,False
+892800.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+893172.0,38.0,0.0,0.0,23.55263157894737,3.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+893400.0,2.0,0.0,0.0,19.5,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+893402.0,338.0,3.0,0.8875739644970414,16.43491124260355,51.0,Mixto,True,False,False,1,Desempeño Bajo,False
+893420.0,206.0,1.0,0.48543689320388345,20.490291262135923,29.0,Mixto,False,False,False,0,Desempeño Esperado,True
+893674.0,,,,,2468.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+893700.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+893804.0,2433.0,10.0,0.4110152075626798,5.120427455815865,3413.0,Mixto,False,False,False,0,Desempeño Esperado,True
+894120.0,18.0,1.0,5.555555555555555,23.77777777777778,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+894224.0,11.0,1.0,9.090909090909092,10.454545454545455,33.0,Mixto,True,False,False,1,Desempeño Bajo,False
+894226.0,,,,,24.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+894230.0,6.0,1.0,16.666666666666664,15.833333333333334,15.0,Mixto,True,False,False,1,Desempeño Bajo,False
+894232.0,4.0,1.0,25.0,10.75,16.0,Mixto,True,False,False,1,Desempeño Bajo,False
+894614.0,8.0,1.0,12.5,14.375,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+894656.0,20.0,0.0,0.0,24.15,3167.0,Mixto,False,True,False,1,Desempeño Bajo,False
+894662.0,1.0,0.0,0.0,9.0,37.0,Mixto,False,False,False,0,Desempeño Esperado,True
+894934.0,,,,,19.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+895140.0,4.0,0.0,0.0,38.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+895170.0,11.0,0.0,0.0,14.636363636363637,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+895172.0,8.0,0.0,0.0,11.5,82.0,Mixto,False,False,False,0,Desempeño Esperado,True
+895266.0,2.0,0.0,0.0,10.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+895370.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+895574.0,96.0,3.0,3.125,15.166666666666666,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+895576.0,70.0,1.0,1.4285714285714286,17.242857142857144,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+895578.0,57.0,0.0,0.0,14.807017543859649,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+895598.0,3.0,0.0,0.0,6.0,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+895774.0,13.0,0.0,0.0,10.923076923076923,105.0,Mixto,False,False,False,0,Desempeño Esperado,True
+895776.0,12.0,1.0,8.333333333333332,14.583333333333334,239.0,Mixto,True,False,False,1,Desempeño Bajo,False
+895782.0,13.0,0.0,0.0,19.153846153846153,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+895786.0,36.0,0.0,0.0,23.13888888888889,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+896008.0,,,,,193.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+896010.0,10.0,0.0,0.0,18.6,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+896012.0,244.0,1.0,0.4098360655737705,6.028688524590164,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+896014.0,14.0,0.0,0.0,13.5,8.0,Mixto,False,False,True,1,Desempeño Bajo,False
+896016.0,71.0,0.0,0.0,7.76056338028169,254.0,Mixto,False,False,False,0,Desempeño Esperado,True
+896018.0,8.0,0.0,0.0,27.125,9.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+896020.0,16.0,0.0,0.0,0.9375,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+896382.0,36.0,0.0,0.0,11.944444444444445,392.0,Mixto,False,False,False,0,Desempeño Esperado,True
+896384.0,,,,,28.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+896386.0,,,,,76.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+896390.0,,,,,97.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+896428.0,23.0,0.0,0.0,8.217391304347826,185.0,Mixto,False,False,False,0,Desempeño Esperado,True
+896430.0,1.0,0.0,0.0,13.0,14.0,Mixto,False,False,False,0,Desempeño Esperado,True
+896536.0,182.0,2.0,1.098901098901099,20.785714285714285,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+896538.0,14.0,1.0,7.142857142857142,47.5,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+896708.0,66.0,0.0,0.0,12.0,152.0,Mixto,False,False,False,0,Desempeño Esperado,True
+897030.0,6.0,0.0,0.0,12.666666666666666,75.0,Mixto,False,False,False,0,Desempeño Esperado,True
+897872.0,3.0,1.0,33.33333333333333,21.666666666666668,49.0,Mixto,True,False,False,1,Desempeño Bajo,False
+897894.0,,,,,19.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+898414.0,24.0,1.0,4.166666666666666,10.75,59.0,Mixto,True,False,False,1,Desempeño Bajo,False
+898422.0,64.0,1.0,1.5625,7.296875,23.0,Mixto,True,False,False,1,Desempeño Bajo,False
+898434.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+898558.0,22.0,0.0,0.0,28.272727272727273,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+898560.0,19.0,0.0,0.0,32.8421052631579,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+898676.0,2.0,0.0,0.0,8.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+898892.0,12.0,0.0,0.0,16.583333333333332,82.0,Mixto,False,False,False,0,Desempeño Esperado,True
+898902.0,,,,,22.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+898906.0,19.0,0.0,0.0,12.0,127.0,Mixto,False,False,False,0,Desempeño Esperado,True
+898920.0,13.0,0.0,0.0,14.923076923076923,37.0,Mixto,False,False,False,0,Desempeño Esperado,True
+899076.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+899082.0,655.0,1.0,0.15267175572519084,20.554198473282444,1511.0,Mixto,False,False,False,0,Desempeño Esperado,True
+899250.0,286.0,5.0,1.7482517482517483,16.003496503496503,1374.0,Mixto,True,False,False,1,Desempeño Bajo,False
+899268.0,31.0,2.0,6.451612903225806,20.774193548387096,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+899788.0,,,,,603.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+899790.0,,,,,716.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+899892.0,3.0,0.0,0.0,31.666666666666668,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+899898.0,2.0,0.0,0.0,25.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+899900.0,2.0,0.0,0.0,58.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+899906.0,1.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+899912.0,1.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+899932.0,,,,,711.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+899964.0,,,,,418.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+899968.0,,,,,364.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+899972.0,,,,,191.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+900180.0,9.0,0.0,0.0,8.0,1682.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900192.0,1.0,0.0,0.0,5.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+900194.0,55.0,2.0,3.6363636363636362,21.436363636363637,43.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900352.0,183.0,3.0,1.639344262295082,17.19672131147541,307.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900354.0,142.0,4.0,2.8169014084507045,17.04225352112676,477.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900458.0,1.0,0.0,0.0,9.0,28.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900492.0,17.0,1.0,5.88235294117647,15.0,234.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900592.0,265.0,0.0,0.0,6.769811320754717,109.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900594.0,34.0,0.0,0.0,10.735294117647058,201.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900614.0,22.0,0.0,0.0,9.772727272727273,34.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900742.0,22.0,0.0,0.0,12.863636363636363,16.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900746.0,26.0,2.0,7.6923076923076925,23.5,49.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+900788.0,124.0,1.0,0.8064516129032258,6.459677419354839,92.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900790.0,44.0,0.0,0.0,8.431818181818182,55.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900792.0,1.0,0.0,0.0,34.0,7.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+900826.0,86.0,0.0,0.0,10.534883720930232,510.0,Mixto,False,False,False,0,Desempeño Esperado,True
+900892.0,329.0,3.0,0.911854103343465,6.787234042553192,933.0,Mixto,True,False,False,1,Desempeño Bajo,False
+900894.0,110.0,1.0,0.9090909090909091,11.972727272727273,218.0,Mixto,True,False,False,1,Desempeño Bajo,False
+901034.0,13.0,0.0,0.0,12.23076923076923,12.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901038.0,5.0,0.0,0.0,22.8,33.0,Mixto,False,True,False,1,Desempeño Bajo,False
+901178.0,288.0,0.0,0.0,8.899305555555555,25.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901350.0,92.0,0.0,0.0,25.467391304347824,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+901492.0,30.0,0.0,0.0,24.166666666666668,3.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+901498.0,5.0,0.0,0.0,53.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+901584.0,104.0,0.0,0.0,5.855769230769231,172.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901586.0,41.0,0.0,0.0,7.658536585365853,94.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901588.0,27.0,0.0,0.0,6.148148148148148,55.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901734.0,28.0,0.0,0.0,14.035714285714286,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+901880.0,1825.0,11.0,0.6027397260273972,5.242739726027398,2362.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901884.0,566.0,1.0,0.17667844522968199,13.56183745583039,2024.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901886.0,143.0,0.0,0.0,18.958041958041957,1416.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901894.0,30.0,0.0,0.0,24.733333333333334,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+901992.0,11.0,0.0,0.0,8.272727272727273,671.0,Mixto,False,False,False,0,Desempeño Esperado,True
+901996.0,3.0,0.0,0.0,14.333333333333334,26.0,Mixto,False,False,False,0,Desempeño Esperado,True
+902238.0,1.0,0.0,0.0,8.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+902510.0,122.0,2.0,1.639344262295082,33.66393442622951,1842.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+902532.0,239.0,1.0,0.41841004184100417,17.02928870292887,867.0,Mixto,False,False,False,0,Desempeño Esperado,True
+902608.0,13.0,0.0,0.0,10.538461538461538,219.0,Mixto,False,False,False,0,Desempeño Esperado,True
+902720.0,99.0,0.0,0.0,15.787878787878787,2320.0,Mixto,False,False,False,0,Desempeño Esperado,True
+902742.0,,,,,1173.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902744.0,,,,,3149.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902746.0,,,,,2452.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902748.0,,,,,2542.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902774.0,,,,,1109.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902776.0,,,,,1581.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902778.0,,,,,1300.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902782.0,,,,,1302.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+902906.0,48.0,0.0,0.0,17.25,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+902910.0,28.0,1.0,3.571428571428571,26.285714285714285,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+903254.0,243.0,0.0,0.0,17.012345679012345,1465.0,Mixto,False,False,False,0,Desempeño Esperado,True
+903292.0,42.0,0.0,0.0,14.023809523809524,301.0,Mixto,False,False,False,0,Desempeño Esperado,True
+903312.0,127.0,2.0,1.574803149606299,17.551181102362204,53.0,Mixto,True,False,False,1,Desempeño Bajo,False
+903318.0,281.0,3.0,1.0676156583629894,9.15658362989324,1178.0,Mixto,True,False,False,1,Desempeño Bajo,False
+903390.0,9.0,0.0,0.0,15.777777777777779,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+903512.0,28.0,0.0,0.0,42.5,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+903974.0,10.0,0.0,0.0,16.7,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+903976.0,5.0,0.0,0.0,8.4,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+903978.0,4.0,0.0,0.0,9.5,6.0,Mixto,False,False,True,1,Desempeño Bajo,False
+904014.0,41.0,0.0,0.0,12.341463414634147,1249.0,Mixto,False,False,False,0,Desempeño Esperado,True
+904016.0,50.0,2.0,4.0,18.52,4681.0,Mixto,True,False,False,1,Desempeño Bajo,False
+904038.0,462.0,2.0,0.4329004329004329,8.88961038961039,215.0,Mixto,False,False,False,0,Desempeño Esperado,True
+904044.0,108.0,1.0,0.9259259259259258,18.22222222222222,23.0,Mixto,True,False,False,1,Desempeño Bajo,False
+904058.0,19.0,0.0,0.0,16.36842105263158,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+904200.0,7.0,0.0,0.0,20.857142857142858,10.0,Mixto,False,False,True,1,Desempeño Bajo,False
+904202.0,7.0,0.0,0.0,11.571428571428571,233.0,Mixto,False,False,False,0,Desempeño Esperado,True
+904204.0,5.0,0.0,0.0,32.2,54.0,Mixto,False,True,False,1,Desempeño Bajo,False
+904284.0,47.0,0.0,0.0,15.48936170212766,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+904344.0,4.0,3.0,75.0,13.75,5.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+904372.0,3.0,0.0,0.0,22.666666666666668,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+905082.0,2.0,0.0,0.0,17.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+905104.0,296.0,8.0,2.7027027027027026,17.26689189189189,187.0,Mixto,True,False,False,1,Desempeño Bajo,False
+905300.0,25.0,6.0,24.0,22.08,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+905308.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+905430.0,96.0,1.0,1.0416666666666665,6.9375,751.0,Mixto,True,False,False,1,Desempeño Bajo,False
+905432.0,12.0,0.0,0.0,5.333333333333333,726.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905470.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+905472.0,1.0,0.0,0.0,21.0,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+905478.0,1.0,0.0,0.0,36.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+905480.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+905538.0,244.0,2.0,0.819672131147541,17.598360655737704,3169.0,Mixto,True,False,False,1,Desempeño Bajo,False
+905542.0,117.0,3.0,2.564102564102564,18.418803418803417,1985.0,Mixto,True,False,False,1,Desempeño Bajo,False
+905564.0,57.0,1.0,1.7543859649122806,24.719298245614034,694.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+905566.0,44.0,1.0,2.272727272727273,16.25,861.0,Mixto,True,False,False,1,Desempeño Bajo,False
+905570.0,,,,,96.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+905574.0,4.0,0.0,0.0,10.5,428.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905840.0,,,,,7.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+905842.0,2.0,0.0,0.0,115.5,1031.0,Mixto,False,True,False,1,Desempeño Bajo,False
+905844.0,13.0,0.0,0.0,12.538461538461538,1032.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905862.0,102.0,15.0,14.705882352941178,11.42156862745098,1.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+905870.0,143.0,0.0,0.0,11.825174825174825,559.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905930.0,70.0,0.0,0.0,6.285714285714286,337.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905932.0,36.0,0.0,0.0,8.0,334.0,Mixto,False,False,False,0,Desempeño Esperado,True
+905934.0,1.0,0.0,0.0,9.0,20.0,Mixto,False,False,False,0,Desempeño Esperado,True
+906070.0,324.0,2.0,0.6172839506172839,41.19444444444444,71.0,Mixto,False,True,False,1,Desempeño Bajo,False
+906076.0,24.0,0.0,0.0,50.958333333333336,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+906294.0,308.0,1.0,0.3246753246753247,4.724025974025974,290.0,Mixto,False,False,False,0,Desempeño Esperado,True
+906296.0,4.0,0.0,0.0,16.25,197.0,Mixto,False,False,False,0,Desempeño Esperado,True
+906392.0,18.0,7.0,38.88888888888889,13.833333333333334,53.0,Mixto,True,False,False,1,Desempeño Bajo,False
+906394.0,30.0,0.0,0.0,28.6,520.0,Mixto,False,True,False,1,Desempeño Bajo,False
+906396.0,124.0,3.0,2.4193548387096775,30.45967741935484,415.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906398.0,64.0,0.0,0.0,24.796875,40.0,Mixto,False,True,False,1,Desempeño Bajo,False
+906400.0,130.0,3.0,2.307692307692308,28.861538461538462,426.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906402.0,7.0,0.0,0.0,46.285714285714285,17.0,Mixto,False,True,False,1,Desempeño Bajo,False
+906404.0,501.0,6.0,1.1976047904191618,27.063872255489024,613.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906406.0,715.0,3.0,0.4195804195804196,26.773426573426573,1136.0,Mixto,False,True,False,1,Desempeño Bajo,False
+906408.0,241.0,4.0,1.6597510373443984,28.680497925311204,87.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906410.0,232.0,7.0,3.0172413793103448,26.012931034482758,19.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906412.0,26.0,7.0,26.923076923076923,15.384615384615385,315.0,Mixto,True,False,False,1,Desempeño Bajo,False
+906416.0,5.0,0.0,0.0,16.6,77.0,Mixto,False,False,False,0,Desempeño Esperado,True
+906418.0,4.0,0.0,0.0,15.0,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+906420.0,5.0,0.0,0.0,11.0,29.0,Mixto,False,False,False,0,Desempeño Esperado,True
+906680.0,195.0,2.0,1.0256410256410255,37.06153846153846,160.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+906866.0,,,,,655.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+907174.0,9.0,0.0,0.0,61.888888888888886,2524.0,Mixto,False,True,False,1,Desempeño Bajo,False
+907178.0,3.0,0.0,0.0,24.0,174.0,Mixto,False,True,False,1,Desempeño Bajo,False
+907180.0,,,,,74.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+907182.0,65.0,0.0,0.0,10.984615384615385,230.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907224.0,48.0,0.0,0.0,23.958333333333332,299.0,Mixto,False,True,False,1,Desempeño Bajo,False
+907440.0,6.0,0.0,0.0,23.833333333333332,167.0,Mixto,False,True,False,1,Desempeño Bajo,False
+907442.0,,,,,89.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+907502.0,242.0,2.0,0.8264462809917356,20.06198347107438,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+907504.0,5.0,0.0,0.0,21.8,25.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907618.0,1.0,0.0,0.0,35.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+907952.0,51.0,2.0,3.9215686274509802,20.529411764705884,179.0,Mixto,True,False,False,1,Desempeño Bajo,False
+907964.0,17.0,0.0,0.0,16.11764705882353,60.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907970.0,16.0,0.0,0.0,17.6875,166.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907972.0,5.0,0.0,0.0,11.4,8.0,Mixto,False,False,True,1,Desempeño Bajo,False
+907974.0,3.0,0.0,0.0,9.666666666666666,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+907982.0,66.0,1.0,1.5151515151515151,21.636363636363637,87.0,Mixto,True,False,False,1,Desempeño Bajo,False
+907986.0,1.0,0.0,0.0,20.0,447.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907994.0,39.0,0.0,0.0,18.512820512820515,104.0,Mixto,False,False,False,0,Desempeño Esperado,True
+907998.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+908002.0,6.0,0.0,0.0,16.5,16.0,Mixto,False,False,False,0,Desempeño Esperado,True
+908078.0,42.0,0.0,0.0,16.523809523809526,56.0,Mixto,False,False,False,0,Desempeño Esperado,True
+908080.0,5.0,0.0,0.0,14.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+908082.0,27.0,0.0,0.0,10.333333333333334,20.0,Mixto,False,False,False,0,Desempeño Esperado,True
+908098.0,6.0,0.0,0.0,26.333333333333332,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+908130.0,3.0,0.0,0.0,28.333333333333332,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+908152.0,13.0,0.0,0.0,40.15384615384615,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+908162.0,3.0,0.0,0.0,53.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+908180.0,1.0,0.0,0.0,15.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+908300.0,3.0,0.0,0.0,56.333333333333336,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+908640.0,,,,,14239.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+908718.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+908834.0,23.0,0.0,0.0,33.95652173913044,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+908958.0,952.0,3.0,0.31512605042016806,27.376050420168067,107.0,Mixto,False,True,False,1,Desempeño Bajo,False
+908960.0,695.0,14.0,2.014388489208633,23.401438848920865,113.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+908984.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+909134.0,197.0,1.0,0.5076142131979695,35.223350253807105,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+909308.0,,,,,15.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+909392.0,5.0,0.0,0.0,26.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+909452.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+909502.0,,,,,786.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+909624.0,3.0,0.0,0.0,33.666666666666664,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+909768.0,14.0,0.0,0.0,42.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+909892.0,4.0,0.0,0.0,10.5,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+909894.0,1.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+909896.0,1.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+909910.0,,,,,318.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910018.0,123.0,0.0,0.0,23.67479674796748,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+910038.0,2.0,0.0,0.0,15.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+910044.0,19.0,0.0,0.0,14.842105263157896,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+910224.0,11.0,0.0,0.0,13.909090909090908,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+910226.0,8.0,2.0,25.0,16.5,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+910516.0,32.0,0.0,0.0,21.90625,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+910520.0,,,,,198.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910524.0,,,,,85.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910530.0,,,,,1061.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910532.0,,,,,151.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910540.0,154.0,1.0,0.6493506493506493,20.844155844155843,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+910594.0,,,,,28.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910902.0,,,,,15.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910926.0,,,,,25.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+910958.0,13.0,0.0,0.0,54.53846153846154,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+911102.0,27.0,3.0,11.11111111111111,30.444444444444443,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+911104.0,1.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+911136.0,211.0,1.0,0.47393364928909953,20.04739336492891,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+911138.0,289.0,3.0,1.0380622837370241,19.688581314878892,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+911140.0,70.0,2.0,2.857142857142857,26.285714285714285,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+911142.0,20.0,2.0,10.0,46.15,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+911152.0,2.0,0.0,0.0,21.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+911214.0,2.0,0.0,0.0,18.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+911310.0,401.0,3.0,0.7481296758104738,13.72568578553616,95.0,Mixto,True,False,False,1,Desempeño Bajo,False
+912010.0,144.0,2.0,1.3888888888888888,18.03472222222222,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+912252.0,39.0,0.0,0.0,15.487179487179487,224.0,Mixto,False,False,False,0,Desempeño Esperado,True
+912296.0,173.0,3.0,1.7341040462427744,11.566473988439306,483.0,Mixto,True,False,False,1,Desempeño Bajo,False
+912684.0,27.0,1.0,3.7037037037037033,35.48148148148148,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+912722.0,153.0,0.0,0.0,6.104575163398692,385.0,Mixto,False,False,False,0,Desempeño Esperado,True
+913474.0,2.0,0.0,0.0,37.0,8.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+913780.0,5.0,0.0,0.0,17.8,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+913788.0,793.0,2.0,0.25220680958385877,15.98108448928121,963.0,Mixto,False,False,False,0,Desempeño Esperado,True
+913868.0,19.0,0.0,0.0,2.526315789473684,18.0,Mixto,False,False,False,0,Desempeño Esperado,True
+913886.0,2.0,1.0,50.0,13.5,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+913938.0,4766.0,14.0,0.2937473772555602,8.513848090642048,408.0,Mixto,False,False,False,0,Desempeño Esperado,True
+913942.0,2467.0,52.0,2.107823267126064,11.987434130522903,440.0,Mixto,True,False,False,1,Desempeño Bajo,False
+913984.0,1.0,0.0,0.0,17.0,6.0,Mixto,False,False,True,1,Desempeño Bajo,False
+914036.0,,,,,18.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+914050.0,12.0,0.0,0.0,8.5,387.0,Mixto,False,False,False,0,Desempeño Esperado,True
+914052.0,,,,,1368.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+914168.0,1.0,0.0,0.0,11.0,10.0,Mixto,False,False,True,1,Desempeño Bajo,False
+914170.0,12.0,0.0,0.0,11.916666666666666,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+914172.0,6.0,0.0,0.0,11.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+914238.0,,,,,335.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+914240.0,,,,,46.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+914256.0,24.0,0.0,0.0,15.333333333333334,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+914266.0,,,,,5.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+914272.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+914338.0,,,,,48.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+914348.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+914426.0,3.0,0.0,0.0,23.0,4.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+914440.0,30.0,1.0,3.3333333333333335,19.1,1.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+914626.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+914630.0,19.0,0.0,0.0,12.526315789473685,136.0,Mixto,False,False,False,0,Desempeño Esperado,True
+914636.0,3.0,0.0,0.0,9.333333333333334,15.0,Mixto,False,False,False,0,Desempeño Esperado,True
+914816.0,,,,,7.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+914842.0,6.0,0.0,0.0,18.833333333333332,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+914848.0,2.0,0.0,0.0,18.5,15.0,Mixto,False,False,False,0,Desempeño Esperado,True
+914870.0,5.0,0.0,0.0,16.8,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+915358.0,,,,,253.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+915360.0,,,,,271.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+915504.0,,,,,33.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+915556.0,185.0,3.0,1.6216216216216217,6.583783783783784,2110.0,Mixto,True,False,False,1,Desempeño Bajo,False
+915558.0,,,,,161.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+915614.0,2.0,0.0,0.0,28.0,62.0,Mixto,False,True,False,1,Desempeño Bajo,False
+915958.0,11.0,0.0,0.0,20.272727272727273,19.0,Mixto,False,False,False,0,Desempeño Esperado,True
+916424.0,404.0,3.0,0.7425742574257426,10.297029702970297,141.0,Mixto,True,False,False,1,Desempeño Bajo,False
+916596.0,,,,,30.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+916618.0,52.0,0.0,0.0,20.423076923076923,105.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917234.0,5.0,0.0,0.0,13.8,1174.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917252.0,6.0,0.0,0.0,41.5,12.0,Mixto,False,True,False,1,Desempeño Bajo,False
+917378.0,2.0,0.0,0.0,12.5,14.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917446.0,,,,,15.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+917680.0,2.0,0.0,0.0,100.0,43.0,Mixto,False,True,False,1,Desempeño Bajo,False
+917682.0,,,,,7.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+917846.0,3.0,0.0,0.0,8.333333333333334,32.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917850.0,166.0,1.0,0.6024096385542169,16.957831325301203,162.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917852.0,375.0,1.0,0.26666666666666666,19.024,1017.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917856.0,3.0,0.0,0.0,11.0,74.0,Mixto,False,False,False,0,Desempeño Esperado,True
+917858.0,1.0,0.0,0.0,14.0,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+917876.0,8.0,0.0,0.0,13.5,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+917890.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+918390.0,,,,,246.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+918436.0,34.0,1.0,2.941176470588235,18.58823529411765,728.0,Mixto,True,False,False,1,Desempeño Bajo,False
+918452.0,,,,,313.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+918888.0,8.0,1.0,12.5,9.375,3.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+918956.0,2.0,0.0,0.0,34.5,17.0,Mixto,False,True,False,1,Desempeño Bajo,False
+918958.0,1.0,0.0,0.0,37.0,8.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+918978.0,744.0,4.0,0.5376344086021506,9.87231182795699,1239.0,Mixto,False,False,False,0,Desempeño Esperado,True
+918986.0,566.0,0.0,0.0,9.690812720848056,1397.0,Mixto,False,False,False,0,Desempeño Esperado,True
+918988.0,1.0,0.0,0.0,13.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+919126.0,,,,,291.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919128.0,,,,,388.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919162.0,,,,,2757.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919164.0,648.0,3.0,0.4629629629629629,6.208333333333333,10.0,Mixto,False,False,True,1,Desempeño Bajo,False
+919166.0,993.0,6.0,0.6042296072507553,5.663645518630413,20.0,Mixto,False,False,False,0,Desempeño Esperado,True
+919188.0,,,,,831.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919190.0,2.0,0.0,0.0,11.0,83.0,Mixto,False,False,False,0,Desempeño Esperado,True
+919192.0,,,,,2158.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919194.0,,,,,1295.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919196.0,,,,,2713.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919198.0,,,,,1066.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919200.0,,,,,1242.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919202.0,,,,,2433.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919204.0,1167.0,9.0,0.7712082262210797,8.025706940874036,9.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+919206.0,926.0,9.0,0.9719222462203023,7.962203023758099,1.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+919214.0,18.0,0.0,0.0,28.38888888888889,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+919218.0,21.0,1.0,4.761904761904762,13.476190476190476,287.0,Mixto,True,False,False,1,Desempeño Bajo,False
+919302.0,,,,,2312.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919306.0,,,,,1504.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919310.0,,,,,2077.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919314.0,,,,,2416.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919318.0,,,,,1813.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919362.0,,,,,2326.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919364.0,,,,,4820.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919370.0,,,,,1324.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919372.0,,,,,1563.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919374.0,,,,,2021.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919376.0,,,,,1284.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919378.0,,,,,1114.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919382.0,,,,,1629.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919390.0,,,,,721.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919418.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+919456.0,,,,,1147.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919464.0,,,,,1289.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919476.0,,,,,1871.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919482.0,,,,,1392.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919490.0,,,,,1668.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919504.0,,,,,1971.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919536.0,2.0,0.0,0.0,9.0,8.0,Mixto,False,False,True,1,Desempeño Bajo,False
+919552.0,1089.0,1.0,0.09182736455463728,34.045913682277316,63.0,Mixto,False,True,False,1,Desempeño Bajo,False
+919554.0,1182.0,11.0,0.9306260575296108,32.35194585448392,11.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+919790.0,1578.0,0.0,0.0,33.50760456273764,23.0,Mixto,False,True,False,1,Desempeño Bajo,False
+919792.0,750.0,1.0,0.13333333333333333,30.189333333333334,68.0,Mixto,False,True,False,1,Desempeño Bajo,False
+919794.0,1136.0,1.0,0.08802816901408451,28.37676056338028,21.0,Mixto,False,True,False,1,Desempeño Bajo,False
+919896.0,5.0,1.0,20.0,14.0,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+919906.0,,,,,1497.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919910.0,,,,,327.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+919956.0,12.0,0.0,0.0,10.75,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+919958.0,2.0,0.0,0.0,17.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+919994.0,20.0,0.0,0.0,41.7,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+920146.0,,,,,84.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+920414.0,,,,,1266.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+920416.0,,,,,1576.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+920666.0,178.0,1.0,0.5617977528089888,9.146067415730338,264.0,Mixto,False,False,False,0,Desempeño Esperado,True
+920706.0,68.0,6.0,8.823529411764707,23.91176470588235,140.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+920720.0,114.0,0.0,0.0,15.570175438596491,200.0,Mixto,False,False,False,0,Desempeño Esperado,True
+920726.0,58.0,1.0,1.7241379310344827,14.586206896551724,52.0,Mixto,True,False,False,1,Desempeño Bajo,False
+920728.0,201.0,4.0,1.9900497512437811,16.19402985074627,99.0,Mixto,True,False,False,1,Desempeño Bajo,False
+920732.0,116.0,0.0,0.0,14.241379310344827,157.0,Mixto,False,False,False,0,Desempeño Esperado,True
+920838.0,65.0,0.0,0.0,11.692307692307692,172.0,Mixto,False,False,False,0,Desempeño Esperado,True
+920852.0,192.0,2.0,1.0416666666666665,10.848958333333334,277.0,Mixto,True,False,False,1,Desempeño Bajo,False
+920874.0,33.0,0.0,0.0,27.666666666666668,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+920902.0,48.0,1.0,2.083333333333333,44.291666666666664,17.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+920928.0,,,,,15.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+920930.0,1.0,0.0,0.0,62.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+920982.0,51.0,0.0,0.0,25.529411764705884,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+921062.0,113.0,0.0,0.0,11.08849557522124,6.0,Mixto,False,False,True,1,Desempeño Bajo,False
+921102.0,13.0,0.0,0.0,20.307692307692307,15.0,Mixto,False,False,False,0,Desempeño Esperado,True
+921104.0,6.0,0.0,0.0,20.5,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+921116.0,,,,,102.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921306.0,398.0,4.0,1.0050251256281406,21.14824120603015,542.0,Mixto,True,False,False,1,Desempeño Bajo,False
+921316.0,,,,,80.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921318.0,2323.0,6.0,0.2582866982350409,14.57081360309944,2560.0,Mixto,False,False,False,0,Desempeño Esperado,True
+921320.0,79.0,1.0,1.2658227848101267,22.79746835443038,269.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+921574.0,,,,,1506.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921584.0,,,,,1266.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921592.0,,,,,1602.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921594.0,,,,,1078.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921596.0,,,,,1270.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+921814.0,42.0,4.0,9.523809523809524,6.738095238095238,43.0,Mixto,True,False,False,1,Desempeño Bajo,False
+921818.0,1808.0,10.0,0.5530973451327433,10.509402654867257,2106.0,Mixto,False,False,False,0,Desempeño Esperado,True
+922114.0,1.0,0.0,0.0,61.0,11.0,Mixto,False,True,False,1,Desempeño Bajo,False
+922142.0,,,,,733.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+922154.0,2.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+922356.0,18.0,0.0,0.0,26.22222222222222,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+922428.0,27.0,0.0,0.0,8.444444444444445,204.0,Mixto,False,False,False,0,Desempeño Esperado,True
+922474.0,63.0,0.0,0.0,8.047619047619047,211.0,Mixto,False,False,False,0,Desempeño Esperado,True
+922476.0,,,,,196.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+922486.0,1.0,0.0,0.0,8.0,5.0,Mixto,False,False,True,1,Desempeño Bajo,False
+922698.0,4.0,0.0,0.0,10.75,12.0,Mixto,False,False,False,0,Desempeño Esperado,True
+922710.0,,,,,1590.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+923250.0,,,,,148.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+923254.0,1.0,0.0,0.0,45.0,9.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+923526.0,901.0,2.0,0.22197558268590456,7.769145394006659,1832.0,Mixto,False,False,False,0,Desempeño Esperado,True
+923528.0,119.0,2.0,1.680672268907563,24.176470588235293,638.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+923646.0,1.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+923666.0,,,,,1805.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+923744.0,1.0,0.0,0.0,5.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+923944.0,41.0,0.0,0.0,11.75609756097561,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+924356.0,,,,,262.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+924370.0,,,,,14.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+924544.0,104.0,0.0,0.0,6.596153846153846,13.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924546.0,44.0,1.0,2.272727272727273,15.931818181818182,71.0,Mixto,True,False,False,1,Desempeño Bajo,False
+924572.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+924614.0,6.0,0.0,0.0,6.166666666666667,16.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924662.0,1.0,0.0,0.0,20.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+924928.0,30.0,1.0,3.3333333333333335,32.6,49.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+924930.0,21.0,1.0,4.761904761904762,21.904761904761905,224.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+924932.0,3.0,0.0,0.0,18.0,28.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924934.0,5.0,0.0,0.0,38.4,569.0,Mixto,False,True,False,1,Desempeño Bajo,False
+924936.0,8.0,2.0,25.0,19.25,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+924940.0,8.0,0.0,0.0,20.5,193.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924946.0,7.0,0.0,0.0,30.714285714285715,41.0,Mixto,False,True,False,1,Desempeño Bajo,False
+924948.0,15.0,1.0,6.666666666666667,18.133333333333333,238.0,Mixto,True,False,False,1,Desempeño Bajo,False
+924950.0,25.0,0.0,0.0,23.6,287.0,Mixto,False,True,False,1,Desempeño Bajo,False
+924952.0,22.0,0.0,0.0,21.227272727272727,90.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924954.0,19.0,1.0,5.263157894736842,31.789473684210527,118.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+924956.0,32.0,0.0,0.0,19.4375,62.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924958.0,29.0,0.0,0.0,12.89655172413793,215.0,Mixto,False,False,False,0,Desempeño Esperado,True
+924960.0,54.0,1.0,1.8518518518518516,21.85185185185185,230.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+925104.0,873.0,0.0,0.0,7.449026345933563,1183.0,Mixto,False,False,False,0,Desempeño Esperado,True
+925106.0,21.0,0.0,0.0,26.952380952380953,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+925134.0,,,,,44.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+925808.0,11.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+925826.0,157.0,1.0,0.6369426751592357,6.942675159235669,510.0,Mixto,False,False,False,0,Desempeño Esperado,True
+925828.0,160.0,0.0,0.0,6.25,429.0,Mixto,False,False,False,0,Desempeño Esperado,True
+925922.0,418.0,10.0,2.3923444976076556,6.7272727272727275,19603.0,Mixto,True,False,False,1,Desempeño Bajo,False
+926184.0,36.0,0.0,0.0,10.75,31.0,Mixto,False,False,False,0,Desempeño Esperado,True
+926214.0,3.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+926312.0,10.0,0.0,0.0,13.5,130.0,Mixto,False,False,False,0,Desempeño Esperado,True
+926486.0,14.0,0.0,0.0,8.428571428571429,2280.0,Mixto,False,False,False,0,Desempeño Esperado,True
+926490.0,11.0,1.0,9.090909090909092,22.363636363636363,133.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+926872.0,24.0,3.0,12.5,0.7916666666666666,7.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+927070.0,32.0,0.0,0.0,44.21875,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+927142.0,4.0,0.0,0.0,3.75,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+927908.0,5.0,0.0,0.0,2.6,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+927910.0,23.0,1.0,4.3478260869565215,2.5652173913043477,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+927912.0,17.0,1.0,5.88235294117647,2.7058823529411766,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+927916.0,134.0,0.0,0.0,2.0522388059701493,426.0,Mixto,False,False,False,0,Desempeño Esperado,True
+928022.0,4.0,0.0,0.0,15.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+928092.0,5.0,0.0,0.0,47.2,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+928142.0,7.0,0.0,0.0,13.714285714285714,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+928202.0,25.0,0.0,0.0,14.84,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+928228.0,,,,,47.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+928282.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+928284.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+928312.0,18.0,0.0,0.0,14.5,1851.0,Mixto,False,False,False,0,Desempeño Esperado,True
+928382.0,9.0,1.0,11.11111111111111,3.0,9.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+928404.0,5.0,0.0,0.0,15.4,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+928518.0,,,,,312.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+928886.0,53.0,1.0,1.8867924528301887,8.566037735849056,681.0,Mixto,True,False,False,1,Desempeño Bajo,False
+928888.0,314.0,1.0,0.3184713375796179,8.038216560509554,553.0,Mixto,False,False,False,0,Desempeño Esperado,True
+928926.0,1.0,0.0,0.0,5.0,15.0,Mixto,False,False,False,0,Desempeño Esperado,True
+929228.0,1.0,0.0,0.0,24.0,87.0,Mixto,False,True,False,1,Desempeño Bajo,False
+929332.0,36.0,0.0,0.0,14.88888888888889,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+929340.0,8.0,0.0,0.0,43.625,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+929424.0,1266.0,5.0,0.3949447077409162,1.311216429699842,3963.0,Mixto,False,False,False,0,Desempeño Esperado,True
+929426.0,,,,,11189.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+929428.0,,,,,23754.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+929542.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+929544.0,,,,,66.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+929622.0,12.0,0.0,0.0,13.5,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+929626.0,35.0,0.0,0.0,12.514285714285714,20.0,Mixto,False,False,False,0,Desempeño Esperado,True
+929876.0,36.0,1.0,2.7777777777777777,13.666666666666666,78.0,Mixto,True,False,False,1,Desempeño Bajo,False
+929884.0,31.0,0.0,0.0,15.806451612903226,25.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930020.0,85.0,5.0,5.88235294117647,8.270588235294118,555.0,Mixto,True,False,False,1,Desempeño Bajo,False
+930186.0,5.0,0.0,0.0,5.4,53.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930242.0,4.0,1.0,25.0,17.25,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+930264.0,4.0,0.0,0.0,9.75,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+930326.0,10.0,0.0,0.0,11.7,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+930510.0,2.0,0.0,0.0,22.0,2.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+930524.0,,,,,28.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+930582.0,1.0,0.0,0.0,16.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+930586.0,,,,,224.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+930590.0,,,,,62.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+930594.0,2.0,0.0,0.0,10.5,53.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930660.0,4.0,0.0,0.0,6.5,19.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930662.0,,,,,23.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+930690.0,2.0,0.0,0.0,6.5,4.0,Mixto,False,False,True,1,Desempeño Bajo,False
+930692.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+930814.0,11.0,0.0,0.0,15.909090909090908,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+930816.0,4.0,0.0,0.0,12.75,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+930818.0,3.0,0.0,0.0,13.666666666666666,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+930820.0,5.0,0.0,0.0,14.2,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+930908.0,34.0,0.0,0.0,5.705882352941177,40.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930910.0,1.0,0.0,0.0,5.0,12.0,Mixto,False,False,False,0,Desempeño Esperado,True
+930912.0,,,,,215.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+930914.0,,,,,314.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+931458.0,2078.0,12.0,0.5774783445620789,17.065447545717035,2363.0,Mixto,False,False,False,0,Desempeño Esperado,True
+931914.0,31.0,0.0,0.0,16.451612903225808,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+932050.0,,,,,145.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+932088.0,,,,,12.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+932246.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+932292.0,6.0,0.0,0.0,14.666666666666666,97.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932304.0,2.0,0.0,0.0,20.0,44.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932460.0,25.0,1.0,4.0,16.72,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+932498.0,1.0,0.0,0.0,11.0,274.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932500.0,8.0,0.0,0.0,18.0,1167.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932502.0,4.0,0.0,0.0,15.75,755.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932672.0,7.0,0.0,0.0,1.4285714285714286,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+932676.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+932750.0,12.0,0.0,0.0,9.583333333333334,17.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932754.0,2.0,0.0,0.0,5.5,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+932798.0,98.0,1.0,1.0204081632653061,9.806122448979592,10.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+932836.0,21.0,0.0,0.0,12.857142857142858,305.0,Mixto,False,False,False,0,Desempeño Esperado,True
+932856.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+933070.0,67.0,1.0,1.4925373134328357,6.507462686567164,782.0,Mixto,True,False,False,1,Desempeño Bajo,False
+933244.0,2.0,0.0,0.0,9.0,84.0,Mixto,False,False,False,0,Desempeño Esperado,True
+933452.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+933804.0,25.0,0.0,0.0,13.84,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+933806.0,,,,,336.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+933810.0,,,,,107.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+933832.0,23.0,0.0,0.0,25.652173913043477,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+933986.0,14.0,1.0,7.142857142857142,13.142857142857142,10.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+933996.0,4.0,0.0,0.0,25.5,11.0,Mixto,False,True,False,1,Desempeño Bajo,False
+934000.0,8.0,0.0,0.0,15.25,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+934074.0,37.0,1.0,2.7027027027027026,14.432432432432432,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+934076.0,11.0,1.0,9.090909090909092,28.272727272727273,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+934098.0,6.0,2.0,33.33333333333333,26.5,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+934170.0,8.0,0.0,0.0,10.25,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+934188.0,6.0,0.0,0.0,17.333333333333332,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+934424.0,6.0,0.0,0.0,27.333333333333332,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+934426.0,,,,,222.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+934428.0,36.0,0.0,0.0,23.61111111111111,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+934430.0,28.0,1.0,3.571428571428571,27.642857142857142,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+934432.0,8.0,0.0,0.0,35.875,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+934476.0,1.0,0.0,0.0,13.0,10.0,Mixto,False,False,True,1,Desempeño Bajo,False
+934534.0,127.0,2.0,1.574803149606299,18.503937007874015,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+934608.0,9.0,0.0,0.0,13.333333333333334,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+935216.0,2.0,0.0,0.0,5.0,33.0,Mixto,False,False,False,0,Desempeño Esperado,True
+935244.0,2.0,0.0,0.0,19.0,27.0,Mixto,False,False,False,0,Desempeño Esperado,True
+935246.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+935264.0,4.0,0.0,0.0,7.0,55.0,Mixto,False,False,False,0,Desempeño Esperado,True
+935268.0,5.0,0.0,0.0,9.6,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+935348.0,147.0,1.0,0.6802721088435374,7.727891156462585,169.0,Mixto,True,False,False,1,Desempeño Bajo,False
+935394.0,1.0,0.0,0.0,7.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+935548.0,19.0,0.0,0.0,10.894736842105264,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+935870.0,8.0,0.0,0.0,12.875,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+935956.0,2.0,0.0,0.0,52.5,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+935958.0,35.0,1.0,2.857142857142857,22.257142857142856,,Solo entrantes,True,True,False,2,Desempeño Deficiente,False
+936110.0,156.0,0.0,0.0,15.692307692307692,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+936296.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+936324.0,28.0,0.0,0.0,14.0,95.0,Mixto,False,False,False,0,Desempeño Esperado,True
+936382.0,1.0,0.0,0.0,39.0,390.0,Mixto,False,True,False,1,Desempeño Bajo,False
+936514.0,81.0,1.0,1.2345679012345678,18.88888888888889,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+936984.0,70.0,0.0,0.0,13.82857142857143,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+937156.0,,,,,65.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937352.0,,,,,31.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937362.0,5.0,0.0,0.0,50.6,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+937366.0,3.0,0.0,0.0,53.666666666666664,2.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+937368.0,22.0,4.0,18.181818181818183,24.136363636363637,10.0,Mixto,True,True,True,3,Desempeño Crítico,False
+937370.0,1.0,0.0,0.0,7.0,5.0,Mixto,False,False,True,1,Desempeño Bajo,False
+937372.0,,,,,1171.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937374.0,25.0,0.0,0.0,35.8,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+937422.0,,,,,36.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937428.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937430.0,,,,,33.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937432.0,3.0,1.0,33.33333333333333,12.0,19.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937604.0,7.0,0.0,0.0,11.428571428571429,52.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937650.0,,,,,91.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937678.0,16.0,0.0,0.0,11.875,159.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937708.0,190.0,0.0,0.0,13.16842105263158,648.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937710.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937716.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937720.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937732.0,116.0,2.0,1.7241379310344827,17.637931034482758,191.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937736.0,284.0,2.0,0.7042253521126761,13.112676056338028,1153.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937742.0,16.0,0.0,0.0,16.25,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+937750.0,57.0,1.0,1.7543859649122806,13.017543859649123,46.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937752.0,412.0,0.0,0.0,10.91747572815534,1616.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937760.0,292.0,1.0,0.3424657534246575,11.681506849315069,727.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937762.0,96.0,1.0,1.0416666666666665,13.333333333333334,196.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937770.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937772.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937774.0,140.0,0.0,0.0,6.85,138.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937778.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937780.0,160.0,2.0,1.25,11.04375,783.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937782.0,25.0,0.0,0.0,13.36,26.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937786.0,3.0,0.0,0.0,9.0,12.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937788.0,125.0,0.0,0.0,11.256,472.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937808.0,127.0,1.0,0.7874015748031495,10.795275590551181,811.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937810.0,80.0,0.0,0.0,8.9375,274.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937812.0,166.0,1.0,0.6024096385542169,13.602409638554217,187.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937854.0,164.0,0.0,0.0,9.182926829268293,553.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937856.0,11.0,0.0,0.0,10.909090909090908,28.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937860.0,224.0,5.0,2.232142857142857,8.678571428571429,1424.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937862.0,122.0,0.0,0.0,11.631147540983607,353.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937864.0,48.0,1.0,2.083333333333333,10.3125,49.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937868.0,63.0,1.0,1.5873015873015872,11.0,250.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937870.0,,,,,13.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+937872.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937874.0,19.0,1.0,5.263157894736842,9.052631578947368,131.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937880.0,7.0,0.0,0.0,9.285714285714286,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+937888.0,193.0,0.0,0.0,8.2279792746114,972.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937898.0,9.0,2.0,22.22222222222222,7.555555555555555,32.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937900.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+937902.0,247.0,1.0,0.4048582995951417,11.82591093117409,899.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937956.0,773.0,24.0,3.1047865459249677,1.3311772315653299,1.0,Mixto,True,False,True,2,Desempeño Deficiente,False
+937958.0,292.0,8.0,2.73972602739726,7.0479452054794525,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+937960.0,204.0,2.0,0.9803921568627451,11.049019607843137,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+937962.0,106.0,3.0,2.8301886792452833,17.28301886792453,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+937966.0,243.0,2.0,0.823045267489712,8.419753086419753,819.0,Mixto,True,False,False,1,Desempeño Bajo,False
+937980.0,82.0,0.0,0.0,10.439024390243903,145.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937984.0,24.0,0.0,0.0,9.5,39.0,Mixto,False,False,False,0,Desempeño Esperado,True
+937988.0,72.0,0.0,0.0,10.694444444444445,274.0,Mixto,False,False,False,0,Desempeño Esperado,True
+938022.0,14.0,0.0,0.0,10.785714285714286,265.0,Mixto,False,False,False,0,Desempeño Esperado,True
+938070.0,,,,,671.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938072.0,,,,,472.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938074.0,,,,,611.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938078.0,,,,,750.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938080.0,,,,,660.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938414.0,93.0,2.0,2.1505376344086025,23.086021505376344,46.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+938432.0,9.0,0.0,0.0,20.444444444444443,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+938612.0,64.0,0.0,0.0,5.34375,125.0,Mixto,False,False,False,0,Desempeño Esperado,True
+938614.0,33.0,1.0,3.0303030303030303,6.212121212121212,29.0,Mixto,True,False,False,1,Desempeño Bajo,False
+938842.0,,,,,90.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+938896.0,1058.0,5.0,0.4725897920604915,7.733459357277883,2272.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939212.0,8.0,0.0,0.0,18.625,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+939218.0,11.0,0.0,0.0,7.909090909090909,359.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939222.0,34.0,0.0,0.0,12.117647058823529,873.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939224.0,32.0,1.0,3.125,16.09375,1341.0,Mixto,True,False,False,1,Desempeño Bajo,False
+939236.0,,,,,5.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+939370.0,482.0,4.0,0.8298755186721992,18.948132780082986,491.0,Mixto,True,False,False,1,Desempeño Bajo,False
+939376.0,261.0,1.0,0.38314176245210724,14.203065134099617,1075.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939470.0,19.0,0.0,0.0,13.526315789473685,729.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939474.0,187.0,0.0,0.0,14.529411764705882,561.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939476.0,40.0,1.0,2.5,9.275,716.0,Mixto,True,False,False,1,Desempeño Bajo,False
+939478.0,19.0,1.0,5.263157894736842,28.263157894736842,105.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+939684.0,17.0,0.0,0.0,12.941176470588236,131.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939698.0,2.0,0.0,0.0,13.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+939706.0,519.0,4.0,0.7707129094412332,9.210019267822736,1023.0,Mixto,True,False,False,1,Desempeño Bajo,False
+939708.0,10.0,1.0,10.0,12.4,36.0,Mixto,True,False,False,1,Desempeño Bajo,False
+939716.0,8.0,0.0,0.0,5.0,16.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939718.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+939736.0,,,,,19.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+939738.0,,,,,634.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+939762.0,808.0,0.0,0.0,16.986386138613863,1878.0,Mixto,False,False,False,0,Desempeño Esperado,True
+939886.0,,,,,281.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+940430.0,64.0,1.0,1.5625,0.953125,27.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940432.0,139.0,0.0,0.0,7.39568345323741,166.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940434.0,126.0,0.0,0.0,4.944444444444445,133.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940436.0,30.0,0.0,0.0,10.833333333333334,6.0,Mixto,False,False,True,1,Desempeño Bajo,False
+940438.0,62.0,0.0,0.0,5.451612903225806,374.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940440.0,46.0,0.0,0.0,11.282608695652174,14.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940442.0,196.0,3.0,1.530612244897959,0.6836734693877551,297.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940456.0,26.0,0.0,0.0,8.23076923076923,32.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940458.0,23.0,0.0,0.0,31.17391304347826,66.0,Mixto,False,True,False,1,Desempeño Bajo,False
+940460.0,,,,,82.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+940474.0,,,,,26.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+940486.0,,,,,23.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+940508.0,2.0,0.0,0.0,41.5,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+940512.0,1.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+940514.0,1.0,0.0,0.0,11.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+940568.0,3.0,0.0,0.0,6.0,7.0,Mixto,False,False,True,1,Desempeño Bajo,False
+940588.0,2127.0,30.0,1.4104372355430184,3.1104842501175365,67.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940596.0,1.0,0.0,0.0,4.0,406.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940610.0,1.0,0.0,0.0,4.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+940614.0,145.0,3.0,2.0689655172413794,3.2482758620689656,426.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940616.0,578.0,6.0,1.0380622837370241,5.532871972318339,2393.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940622.0,677.0,16.0,2.363367799113737,4.518463810930576,718.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940624.0,572.0,6.0,1.048951048951049,5.6678321678321675,1166.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940630.0,1985.0,17.0,0.8564231738035265,4.096725440806045,127.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940634.0,432.0,6.0,1.3888888888888888,7.74537037037037,1623.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940652.0,414.0,9.0,2.1739130434782608,4.147342995169082,860.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940658.0,862.0,10.0,1.160092807424594,4.8503480278422275,1726.0,Mixto,True,False,False,1,Desempeño Bajo,False
+940772.0,2.0,0.0,0.0,4.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+940782.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+940788.0,,,,,11.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+940802.0,,,,,5.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+940814.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+940828.0,1.0,0.0,0.0,2.0,7.0,Mixto,False,False,True,1,Desempeño Bajo,False
+940842.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+940848.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+940952.0,141.0,0.0,0.0,12.865248226950355,110.0,Mixto,False,False,False,0,Desempeño Esperado,True
+940968.0,18.0,0.0,0.0,17.38888888888889,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+941192.0,,,,,1139.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+941384.0,48.0,0.0,0.0,11.5625,655.0,Mixto,False,False,False,0,Desempeño Esperado,True
+941390.0,1.0,0.0,0.0,5.0,369.0,Mixto,False,False,False,0,Desempeño Esperado,True
+941628.0,1.0,0.0,0.0,19.0,147.0,Mixto,False,False,False,0,Desempeño Esperado,True
+941736.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941740.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941786.0,3.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+941810.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941816.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941826.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941838.0,,,,,9.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941842.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+941844.0,7.0,1.0,14.285714285714285,16.714285714285715,11.0,Mixto,True,False,False,1,Desempeño Bajo,False
+942174.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+942214.0,2.0,0.0,0.0,10.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+943050.0,,,,,73.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+943066.0,89.0,0.0,0.0,13.269662921348315,171.0,Mixto,False,False,False,0,Desempeño Esperado,True
+943818.0,1.0,0.0,0.0,5.0,22.0,Mixto,False,False,False,0,Desempeño Esperado,True
+944210.0,114.0,0.0,0.0,36.62280701754386,46.0,Mixto,False,True,False,1,Desempeño Bajo,False
+944216.0,235.0,24.0,10.212765957446807,35.60851063829787,133.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+944218.0,245.0,15.0,6.122448979591836,36.71836734693878,164.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+944220.0,265.0,18.0,6.7924528301886795,36.06792452830189,221.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+944222.0,185.0,17.0,9.18918918918919,33.87567567567567,344.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+944226.0,180.0,30.0,16.666666666666664,42.66111111111111,109.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+944228.0,29.0,0.0,0.0,48.724137931034484,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+944246.0,9.0,0.0,0.0,37.0,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+944310.0,3.0,0.0,0.0,5.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+944474.0,6.0,0.0,0.0,25.0,12.0,Mixto,False,True,False,1,Desempeño Bajo,False
+944476.0,189.0,0.0,0.0,13.46031746031746,16.0,Mixto,False,False,False,0,Desempeño Esperado,True
+944560.0,5.0,0.0,0.0,17.8,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+944564.0,2.0,0.0,0.0,14.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+944644.0,26.0,0.0,0.0,24.423076923076923,145.0,Mixto,False,True,False,1,Desempeño Bajo,False
+944646.0,219.0,1.0,0.45662100456621,9.383561643835616,333.0,Mixto,False,False,False,0,Desempeño Esperado,True
+944648.0,5.0,0.0,0.0,39.6,41.0,Mixto,False,True,False,1,Desempeño Bajo,False
+944764.0,355.0,2.0,0.5633802816901409,6.966197183098592,256.0,Mixto,False,False,False,0,Desempeño Esperado,True
+944766.0,152.0,1.0,0.6578947368421052,9.039473684210526,140.0,Mixto,False,False,False,0,Desempeño Esperado,True
+944808.0,229.0,0.0,0.0,2.2925764192139737,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+944908.0,2.0,0.0,0.0,13.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+945046.0,60.0,4.0,6.666666666666667,17.75,29.0,Mixto,True,False,False,1,Desempeño Bajo,False
+945052.0,59.0,2.0,3.389830508474576,12.64406779661017,16.0,Mixto,True,False,False,1,Desempeño Bajo,False
+945058.0,4.0,0.0,0.0,18.75,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+945074.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+945274.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+945278.0,,,,,4001.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945280.0,,,,,2399.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945282.0,,,,,2309.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945284.0,,,,,2071.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945286.0,,,,,6880.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945288.0,,,,,2209.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945290.0,,,,,3373.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945294.0,,,,,3368.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945296.0,,,,,2434.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945298.0,,,,,1313.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945302.0,,,,,6138.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945304.0,,,,,2576.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945308.0,,,,,1584.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945310.0,,,,,3311.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945312.0,,,,,2146.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945314.0,,,,,1763.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945316.0,,,,,2575.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945318.0,,,,,1839.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945320.0,,,,,2177.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945322.0,,,,,4775.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945324.0,,,,,2226.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945710.0,1.0,0.0,0.0,17.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+945728.0,,,,,87.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945894.0,,,,,1464.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945898.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+945900.0,,,,,4210.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945902.0,,,,,2835.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+945904.0,,,,,3813.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+946020.0,1.0,0.0,0.0,3.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+946032.0,1.0,0.0,0.0,8.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+946072.0,1.0,0.0,0.0,6.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+946454.0,,,,,13.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+946468.0,1.0,0.0,0.0,25.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+946582.0,44.0,0.0,0.0,1.8181818181818181,27.0,Mixto,False,False,False,0,Desempeño Esperado,True
+946916.0,32.0,0.0,0.0,14.4375,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+946988.0,3.0,0.0,0.0,10.0,5.0,Mixto,False,False,True,1,Desempeño Bajo,False
+947304.0,35.0,3.0,8.571428571428571,5.942857142857143,645.0,Mixto,True,False,False,1,Desempeño Bajo,False
+947306.0,1.0,0.0,0.0,10.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+947480.0,,,,,5.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+947590.0,,,,,166.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947592.0,,,,,803.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947596.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+947598.0,,,,,412.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947600.0,,,,,303.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947604.0,1.0,0.0,0.0,14.0,912.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947610.0,2.0,0.0,0.0,9.5,19.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947612.0,1.0,0.0,0.0,18.0,107.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947614.0,,,,,995.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947616.0,,,,,1967.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947618.0,,,,,1076.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947620.0,,,,,1158.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947636.0,,,,,102.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947638.0,2.0,0.0,0.0,13.5,1165.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947640.0,,,,,418.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947642.0,1.0,0.0,0.0,14.0,901.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947644.0,,,,,446.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947646.0,,,,,1893.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947648.0,,,,,2813.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947650.0,,,,,1603.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947652.0,,,,,515.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947654.0,,,,,2257.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947658.0,,,,,2668.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+947816.0,11.0,0.0,0.0,20.0,29.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947818.0,12.0,0.0,0.0,11.416666666666666,33.0,Mixto,False,False,False,0,Desempeño Esperado,True
+947820.0,,,,,9.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+948150.0,24.0,0.0,0.0,10.583333333333334,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+948170.0,2.0,0.0,0.0,15.0,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+948182.0,111.0,0.0,0.0,12.72972972972973,452.0,Mixto,False,False,False,0,Desempeño Esperado,True
+948282.0,1.0,0.0,0.0,1.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+948284.0,4.0,0.0,0.0,26.75,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+948286.0,319.0,15.0,4.702194357366771,15.68652037617555,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+948288.0,22.0,1.0,4.545454545454546,13.454545454545455,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+948524.0,4.0,0.0,0.0,5.5,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+948756.0,1.0,1.0,100.0,8.0,170.0,Mixto,True,False,False,1,Desempeño Bajo,False
+948758.0,18.0,1.0,5.555555555555555,25.5,518.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+949252.0,3.0,0.0,0.0,13.333333333333334,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+949420.0,5.0,0.0,0.0,0.8,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+950444.0,,,,,86.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+950632.0,1.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+950634.0,9.0,0.0,0.0,12.222222222222221,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+950640.0,1.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+950672.0,1.0,0.0,0.0,13.0,53.0,Mixto,False,False,False,0,Desempeño Esperado,True
+950806.0,6.0,0.0,0.0,11.166666666666666,3.0,Mixto,False,False,True,1,Desempeño Bajo,False
+950972.0,4.0,0.0,0.0,29.25,816.0,Mixto,False,True,False,1,Desempeño Bajo,False
+951046.0,3.0,0.0,0.0,14.0,34.0,Mixto,False,False,False,0,Desempeño Esperado,True
+951118.0,4.0,0.0,0.0,32.5,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+951186.0,92.0,0.0,0.0,8.608695652173912,8.0,Mixto,False,False,True,1,Desempeño Bajo,False
+951290.0,1.0,0.0,0.0,17.0,20.0,Mixto,False,False,False,0,Desempeño Esperado,True
+951332.0,8.0,0.0,0.0,32.0,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+951408.0,,,,,30.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+951490.0,27.0,1.0,3.7037037037037033,14.814814814814815,,Solo entrantes,True,False,False,1,Desempeño Bajo,False
+951492.0,28.0,0.0,0.0,23.071428571428573,157.0,Mixto,False,True,False,1,Desempeño Bajo,False
+951506.0,40.0,0.0,0.0,40.3,197.0,Mixto,False,True,False,1,Desempeño Bajo,False
+951508.0,336.0,21.0,6.25,18.946428571428573,146.0,Mixto,True,False,False,1,Desempeño Bajo,False
+951526.0,15.0,0.0,0.0,14.6,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+951614.0,5.0,0.0,0.0,14.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+951648.0,,,,,161.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+951650.0,1.0,0.0,0.0,45.0,10.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+952114.0,1.0,0.0,0.0,3.0,612.0,Mixto,False,False,False,0,Desempeño Esperado,True
+952116.0,,,,,354.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952126.0,7.0,0.0,0.0,14.428571428571429,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+952196.0,2.0,0.0,0.0,12.0,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+952292.0,2.0,0.0,0.0,40.5,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+952392.0,,,,,1496.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952458.0,,,,,1556.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952460.0,,,,,177.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952462.0,8.0,0.0,0.0,21.125,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+952466.0,,,,,88.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952468.0,,,,,1127.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+952656.0,4.0,0.0,0.0,7.5,38.0,Mixto,False,False,False,0,Desempeño Esperado,True
+952666.0,1.0,0.0,0.0,15.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+952678.0,1.0,0.0,0.0,30.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+952734.0,409.0,0.0,0.0,1.1051344743276283,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+952914.0,78.0,0.0,0.0,7.4743589743589745,580.0,Mixto,False,False,False,0,Desempeño Esperado,True
+952916.0,1.0,0.0,0.0,25.0,7.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+952948.0,3542.0,8.0,0.2258610954263128,1.5917560700169395,1178.0,Mixto,False,False,False,0,Desempeño Esperado,True
+952954.0,2.0,0.0,0.0,1.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+952968.0,2.0,0.0,0.0,5.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+952982.0,8.0,0.0,0.0,0.875,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+953362.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+953458.0,,,,,59.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+953460.0,,,,,7.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+953462.0,,,,,684.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+953464.0,52.0,1.0,1.9230769230769231,9.346153846153847,317.0,Mixto,True,False,False,1,Desempeño Bajo,False
+953940.0,1.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+953952.0,7.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+954086.0,31.0,0.0,0.0,2.064516129032258,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+954284.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+954290.0,10.0,0.0,0.0,19.7,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+954318.0,1.0,0.0,0.0,4.0,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+954376.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+954378.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+954380.0,,,,,4.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+954616.0,7.0,0.0,0.0,6.571428571428571,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+954642.0,,,,,385.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+954650.0,462.0,3.0,0.6493506493506493,10.409090909090908,837.0,Mixto,False,False,False,0,Desempeño Esperado,True
+954750.0,223.0,1.0,0.4484304932735426,21.87443946188341,69.0,Mixto,False,True,False,1,Desempeño Bajo,False
+954810.0,37.0,0.0,0.0,9.08108108108108,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+955032.0,38.0,1.0,2.631578947368421,8.631578947368421,34.0,Mixto,True,False,False,1,Desempeño Bajo,False
+955068.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+955082.0,,,,,14.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+955086.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+955090.0,,,,,26.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+955094.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+955164.0,2.0,0.0,0.0,26.0,3.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+955436.0,1.0,0.0,0.0,23.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+955820.0,,,,,9.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+956080.0,5.0,0.0,0.0,50.4,,Solo entrantes,False,True,False,1,Desempeño Bajo,False
+956268.0,6.0,0.0,0.0,15.666666666666666,22.0,Mixto,False,False,False,0,Desempeño Esperado,True
+956276.0,8.0,0.0,0.0,6.625,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+956292.0,3.0,0.0,0.0,11.666666666666666,2.0,Mixto,False,False,True,1,Desempeño Bajo,False
+956298.0,,,,,14.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+956480.0,86.0,0.0,0.0,14.372093023255815,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+956484.0,13.0,0.0,0.0,21.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+956664.0,1.0,0.0,0.0,9.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+957022.0,,,,,18.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+957922.0,3.0,1.0,33.33333333333333,8.666666666666666,16.0,Mixto,True,False,False,1,Desempeño Bajo,False
+958394.0,22.0,0.0,0.0,7.136363636363637,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+958416.0,13.0,1.0,7.6923076923076925,18.307692307692307,295.0,Mixto,True,False,False,1,Desempeño Bajo,False
+958418.0,9.0,0.0,0.0,9.444444444444445,457.0,Mixto,False,False,False,0,Desempeño Esperado,True
+958430.0,22.0,0.0,0.0,18.59090909090909,284.0,Mixto,False,False,False,0,Desempeño Esperado,True
+958432.0,15.0,0.0,0.0,25.133333333333333,147.0,Mixto,False,True,False,1,Desempeño Bajo,False
+958434.0,23.0,1.0,4.3478260869565215,38.78260869565217,138.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+958440.0,,,,,81.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+958444.0,,,,,64.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+958452.0,27.0,1.0,3.7037037037037033,12.851851851851851,423.0,Mixto,True,False,False,1,Desempeño Bajo,False
+958454.0,2.0,0.0,0.0,15.0,24.0,Mixto,False,False,False,0,Desempeño Esperado,True
+958456.0,10.0,0.0,0.0,26.4,842.0,Mixto,False,True,False,1,Desempeño Bajo,False
+958458.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+958460.0,103.0,3.0,2.912621359223301,49.650485436893206,112.0,Mixto,True,True,False,2,Desempeño Deficiente,False
+958468.0,7.0,0.0,0.0,34.857142857142854,516.0,Mixto,False,True,False,1,Desempeño Bajo,False
+958470.0,3.0,0.0,0.0,50.666666666666664,13.0,Mixto,False,True,False,1,Desempeño Bajo,False
+958472.0,,,,,28.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+958478.0,7.0,0.0,0.0,33.857142857142854,302.0,Mixto,False,True,False,1,Desempeño Bajo,False
+958480.0,,,,,138.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+958640.0,10.0,1.0,10.0,10.5,11.0,Mixto,True,False,False,1,Desempeño Bajo,False
+958672.0,,,,,49.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+959118.0,,,,,14.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+959312.0,56.0,7.0,12.5,7.464285714285714,145.0,Mixto,True,False,False,1,Desempeño Bajo,False
+959596.0,,,,,9.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+960294.0,1.0,0.0,0.0,36.0,296.0,Mixto,False,True,False,1,Desempeño Bajo,False
+960296.0,2.0,0.0,0.0,63.0,170.0,Mixto,False,True,False,1,Desempeño Bajo,False
+960620.0,50.0,1.0,2.0,14.96,58.0,Mixto,True,False,False,1,Desempeño Bajo,False
+960648.0,33.0,0.0,0.0,17.545454545454547,79.0,Mixto,False,False,False,0,Desempeño Esperado,True
+960666.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+960670.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+960672.0,,,,,219.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+960674.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+960698.0,6.0,0.0,0.0,16.833333333333332,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+960950.0,,,,,14.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+961064.0,23.0,0.0,0.0,7.521739130434782,904.0,Mixto,False,False,False,0,Desempeño Esperado,True
+961552.0,3.0,0.0,0.0,34.666666666666664,11.0,Mixto,False,True,False,1,Desempeño Bajo,False
+961770.0,79.0,0.0,0.0,10.962025316455696,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+962062.0,15.0,0.0,0.0,13.6,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+962168.0,4.0,0.0,0.0,17.25,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+962268.0,38.0,0.0,0.0,16.894736842105264,94.0,Mixto,False,False,False,0,Desempeño Esperado,True
+962658.0,331.0,0.0,0.0,8.220543806646525,320.0,Mixto,False,False,False,0,Desempeño Esperado,True
+962902.0,223.0,0.0,0.0,7.219730941704036,399.0,Mixto,False,False,False,0,Desempeño Esperado,True
+962904.0,,,,,2.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+963716.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+964510.0,15.0,2.0,13.333333333333334,10.0,131.0,Mixto,True,False,False,1,Desempeño Bajo,False
+964518.0,2.0,0.0,0.0,21.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+964666.0,43.0,3.0,6.976744186046512,13.44186046511628,814.0,Mixto,True,False,False,1,Desempeño Bajo,False
+964712.0,6.0,0.0,0.0,20.333333333333332,9.0,Mixto,False,False,True,1,Desempeño Bajo,False
+964716.0,,,,,296.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965232.0,,,,,37.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965328.0,,,,,28.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965538.0,,,,,475.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965540.0,,,,,807.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965542.0,,,,,681.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965544.0,,,,,1277.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+965942.0,4.0,0.0,0.0,12.75,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+966158.0,3.0,0.0,0.0,15.0,34.0,Mixto,False,False,False,0,Desempeño Esperado,True
+966686.0,2.0,0.0,0.0,16.5,1.0,Mixto,False,False,True,1,Desempeño Bajo,False
+967204.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+967310.0,1.0,0.0,0.0,8.0,52.0,Mixto,False,False,False,0,Desempeño Esperado,True
+968150.0,4.0,0.0,0.0,1.0,91.0,Mixto,False,False,False,0,Desempeño Esperado,True
+968232.0,1.0,0.0,0.0,13.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+968338.0,13.0,0.0,0.0,8.846153846153847,213.0,Mixto,False,False,False,0,Desempeño Esperado,True
+968368.0,2.0,0.0,0.0,19.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+968520.0,5.0,0.0,0.0,1.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+969262.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+969268.0,,,,,5.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+969272.0,154.0,1.0,0.6493506493506493,12.123376623376624,228.0,Mixto,False,False,False,0,Desempeño Esperado,True
+969284.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+969286.0,,,,,8.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+969288.0,3.0,0.0,0.0,29.333333333333332,2.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+969294.0,84.0,0.0,0.0,8.452380952380953,12.0,Mixto,False,False,False,0,Desempeño Esperado,True
+969380.0,1.0,0.0,0.0,21.0,7.0,Mixto,False,False,True,1,Desempeño Bajo,False
+969386.0,,,,,54.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+969600.0,,,,,19.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+970240.0,1.0,0.0,0.0,44.0,1.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+970242.0,,,,,10.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+970244.0,2.0,0.0,0.0,40.5,2.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+970250.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+970252.0,1.0,0.0,0.0,25.0,5.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+970254.0,3.0,0.0,0.0,40.333333333333336,9.0,Mixto,False,True,True,2,Desempeño Deficiente,False
+970258.0,,,,,1.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+970484.0,,,,,7.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+970486.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+971100.0,3.0,0.0,0.0,8.666666666666666,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+971102.0,76.0,0.0,0.0,17.789473684210527,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+971354.0,6.0,0.0,0.0,14.0,,Solo entrantes,False,False,False,0,Desempeño Esperado,True
+972408.0,,,,,6.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+972410.0,,,,,77.0,Solo salientes,False,False,False,0,Desempeño Esperado,True
+972412.0,1.0,0.0,0.0,25.0,60.0,Mixto,False,True,False,1,Desempeño Bajo,False
+972460.0,1.0,0.0,0.0,4.0,50.0,Mixto,False,False,False,0,Desempeño Esperado,True
+973120.0,,,,,3.0,Solo salientes,False,False,True,1,Desempeño Deficiente,False
+973286.0,2.0,0.0,0.0,44.0,,Solo entrantes,False,True,False,1,Desempeño Bajo,False

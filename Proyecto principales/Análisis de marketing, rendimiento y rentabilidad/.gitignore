@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cachés de Python y herramientas
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+Desktop.ini
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
