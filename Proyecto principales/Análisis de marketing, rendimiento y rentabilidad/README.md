@@ -57,6 +57,6 @@ Selecciona el kernel del entorno donde instalaste las dependencias y ejecuta las
 Data Analyst en Formación - TripleTen
 
 ## Datos de contacto
-- **CV:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+- **CV:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/CV%20ADRIAN%20NOVOA%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 - **LinkedIn:** [adrian-novoa-monzon](https://www.linkedin.com/in/adrian-novoa-monzon)
 - **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)
