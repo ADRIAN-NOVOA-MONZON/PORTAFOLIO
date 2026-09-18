@@ -133,6 +133,6 @@ Data Analyst en Formación – TripleTen
 
 ## Datos de Contacto
 
-- **Cv:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/ADRIAN%20NOVOA%20CV%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> Pdf </a>
+- **Cv:** <a href="https://github.com/ADRIAN-NOVOA-MONZON/PORTAFOLIO/blob/main/CV%20ADRIAN%20NOVOA%20DATA%20ANALYST.pdf" target="_blank" rel="noopener noreferrer"> Pdf </a>
 - **LinkedIn:** [adrian-novoa-monzon](https://www.linkedin.com/in/adrian-novoa-monzon)
 - **Email:** [adrian-novoa-monzon@gmail.com](mailto:adrian-novoa-monzon@gmail.com)
